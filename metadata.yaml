@@ -1,0 +1,30 @@
+_repo: Le-calcul-des-r-sidus-et-ses-applications---la-th-orie-des-fonctions_29781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindelöf, Ernst Leonard
+    alias: Lindelof, Ernst Leonard
+    birthdate: 1870
+    gutenberg_agent_id: '34162'
+    url: http://www.gutenberg.org/2009/agents/34162
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29781'
+  lccn: '11018518'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Functions'
+- !lcc 'QA'
+title: Le calcul des résidus et ses applications à la théorie des fonctions
+url: http://www.gutenberg.org/ebooks/29781
