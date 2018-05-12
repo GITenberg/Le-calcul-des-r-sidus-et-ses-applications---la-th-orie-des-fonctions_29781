@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34162'
     url: http://www.gutenberg.org/2009/agents/34162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29781#Le-calcul-des-r-sidus-et-ses-applications---la-th-orie-des-fonctions
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
